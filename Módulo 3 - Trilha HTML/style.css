@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    height: 100vh;
+    width: 90vw;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    
+}
+
+.logo {
+    width: 50px;
+    margin-left: 650px;
+    margin-top: 10px;
+    align-self: center;
+    
+}
+
+.titlelogo {
+    margin-top: -50px;
+    margin-left: 700px;
+    font-family: "Fascinate Inline", system-ui;
+    font-weight: 400;
+    font-style: normal;
+   
+}
+
+.search {
+    margin-top: 50px;
+    margin-left: 550px;
+    border-radius: 20px;
+    border: none;
+    font-size: 15px;
+}
+
+form div input {
+    border: 1px solid;
+    border-radius: 9px;
+    padding: 5px;
+}
+
+form div button {
+    border: 1px solid;
+    border-radius: 9px;
+    padding: 5px;
+}
+
+form div button:hover{
+    cursor: pointer;
+    background-color:dimgray;
+    color: white;
+}
+
+.assrelacionados {
+    width:270px;
+    height:350px;
+    margin-top: 200px;
+    margin-left: 20px;
+    border:2px solid black;
+    padding: 1px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background-color:rgb(189, 186, 186);
+
+}
+
+.topiconav {
+   width: 270px;
+   height: 170px;
+   margin-top: -360px;
+   margin-left: 1230px;
+   border: 2px solid black;
+   padding: 1px;
+   box-sizing: border-box;
+   border-radius: 10px;
+   background-color:rgb(189, 186, 186);
+}
+
+main {
+    margin-top: -250px;
+    margin-left: 400px;
+    margin-right: 200px;
+}
+
+summary {
+    font-size: 20px;
+}
+
+blockquote {
+    background-color: rgb(189, 186, 186);
+    border-left: 10px solid rgb(38, 31, 243);
+}
+
+figcaption {
+    background-color: rgb(189, 186, 186);
+    border-left: 10px solid rgb(38, 31, 243);
+}
+
+div footer p {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+div footer ul li {
+    display: flex;
+    display: inline-block;
+    justify-content:space-between;
+    margin-left: 250px;
+}
+
+.divfooter {
+    background-color: rgb(189, 186, 186);
+    margin-right: -135px;
+    margin-left: 3px;
+}
